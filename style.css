@@ -1,0 +1,71 @@
+@import url(catalog.style.css);
+
+
+
+body{
+    background-color: #2f3542;
+}
+
+.topnav {
+    background-color:#a4b0be;
+    overflow: hidden;
+  }
+  
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 17px 19px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+ 
+  .topnav a.active {
+    background-color: #3742fa;
+    color: #a4b0be;
+  }
+
+  h1{
+      color:#ffffff ;
+      justify-content: center;
+      text-align: center;
+  }
+
+  p{
+
+    color: #a4b0be;
+     text-align: center;
+     justify-content: center;
+     padding: 2%;
+  }
+  
+img{
+   
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      height: 500px;
+      width: 300px;
+      border-radius: 10%;
+      padding: 4%;
+
+      }
+
+footer{
+          background-color:#a4b0be ;
+          height: 120px;
+          width: 100%;
+          text-align: center;
+          justify-content: center;
+          padding-bottom: 1%;
+      }
+
+     
